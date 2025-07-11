@@ -1,0 +1,2 @@
+var e=document.querySelector("body"),t=document.querySelector(".extra_nav__call"),n=document.querySelector(".extra_nav__burger_menu"),c=document.querySelector("nav");t.addEventListener("click",function(){t.classList.toggle("extra_nav__call--active")}),n.addEventListener("click",function(){n.classList.toggle("extra_nav__burger_menu--active"),c.classList.toggle("nav_open"),e.style.overflow="hidden"===e.style.overflow?"":"hidden"});
+//# sourceMappingURL=index.51f71703.js.map
